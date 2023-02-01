@@ -39,12 +39,22 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
 
-     <div style="display: inline-block; width: 49%;">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <div style="display: inline-block; width: 49%;">
   <button>Button 1</button>
 </div>
 <div style="display: inline-block; width: 49%;">
   <button>Button 2</button>
 </div>
+
+  </body>
+</html>
 
 
 
