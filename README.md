@@ -1,4 +1,3 @@
-<hr>
 <img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there I'm Eren KALAYCI
@@ -25,10 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="25" height="25">
 </p>
 
-<br>
-<br>
-<hr>
-
 <details>
 <summary> 💡Github Stats </summary>
 <br>
@@ -40,9 +35,3 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
-
-<hr>
-
- 
-
- 
