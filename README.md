@@ -42,17 +42,8 @@
 <hr>
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" <details>
-<summary> 💡Github Stats </summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite">
-</details></a>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" <details>
-<summary> 💡Most Used Langues </summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
-</details></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f77cf3798f08e2f9ba369e2d567ad4c94a451723702189ada4192669f8753e26/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61746963696164656d2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/f77cf3798f08e2f9ba369e2d567ad4c94a451723702189ada4192669f8753e26/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61746963696164656d2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" width="450" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4f2c2b8bef0965f3b95f36ca97e400d43348362ca7d8c8a46b4df5a4c99bf47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61746963696164656d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/d4f2c2b8bef0965f3b95f36ca97e400d43348362ca7d8c8a46b4df5a4c99bf47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61746963696164656d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
 </p>
 
 
