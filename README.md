@@ -42,4 +42,4 @@
 
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB">
+<img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS">
