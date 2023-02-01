@@ -29,5 +29,5 @@
 <details>
   <summary> 💡Most Used Langues </summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact" align="right"=>
 </details>  
