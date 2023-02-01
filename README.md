@@ -3,14 +3,14 @@
 
 ### Hi there I'm Eren KALAYCI
 
-### Reach out to me :
+### Reach out to me
 <p align="left" dir="auto">
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a>
 </p>
 
-### Languages and Tools :
+### Languages and tools
 <p align="left" dir="auto">
 <img src="https://avatars.githubusercontent.com/u/38549573?s=200&v=4" widht="25" height="25">
 &nbsp;
