@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="268">
+<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="268" style="border:dashed 5 green">
 
 ### Hi there I'm Eren KALAYCI
 
