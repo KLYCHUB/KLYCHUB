@@ -2,8 +2,6 @@
 
 ### Hi there I'm Eren 👋
 
-### About...
-
 ### Reach out to me
 <p align="left" dir="auto">
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="25" width="25" style="max-width: 100%;"></a>
