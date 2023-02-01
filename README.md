@@ -26,8 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite">
 </details>  
 
-<details align="right">
+<details>
   <summary> 💡Most Used Langues </summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact" align="right"=>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>  
