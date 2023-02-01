@@ -44,4 +44,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS">
 
-<img src="https://github.com/KLYCHUB/KLYCHUB/blob/output/github-contribution-grid-snake.gif" widht="400" height="250">
+<img src="https://github.com/KLYCHUB/KLYCHUB/blob/output/github-contribution-grid-snake.gif">
