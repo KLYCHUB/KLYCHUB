@@ -6,7 +6,7 @@
 
 ### Reach out to me
 
-[<img widht="22" src="https://unpng.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img widht="22" src="https://unpng.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 
 [twitter]: https://twitter.com/erenklyctr
 [linkedin]: https://www.linkedin.com/in/erenklyc/
