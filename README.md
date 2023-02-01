@@ -51,3 +51,7 @@
 </picture>
 
 _generated with [KLYCHUB/snk](https://github.com/KLYCHUB/snk)_
+
+npm install
+
+npm run dev:demo
