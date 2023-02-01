@@ -25,8 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="25" height="25">
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB">
-
 <br>
 <hr>
 
@@ -43,3 +41,5 @@
 </details>
 
 <hr>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB">
