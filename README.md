@@ -22,5 +22,5 @@
 
 <details>
   <summary> 💡Github Stats </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB)](https://github.com/KLYCHUB/github-readme-stats&thema=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB)](https://github.com/KLYCHUB/github-readme-statsl">
 </details>  
