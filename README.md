@@ -25,3 +25,9 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=dark">
 </details>  
+
+<details>
+  <summary> 💡Most Used Langues </summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>  
