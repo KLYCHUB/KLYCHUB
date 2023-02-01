@@ -8,5 +8,7 @@
 
 [<img widht="22" src="https://unpng.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 
+[<img widht="22" src="https://unpng.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
 [twitter]: https://twitter.com/erenklyctr
 [linkedin]: https://www.linkedin.com/in/erenklyc/
