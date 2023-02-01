@@ -39,15 +39,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
 
-<hr>
-
-<div style="display: inline-block; width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite">
-</div>
-<div style="display: inline-block; width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
-</div>
-
 
 
 
