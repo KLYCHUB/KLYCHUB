@@ -23,7 +23,7 @@
 <details>
   <summary> 💡Github Stats </summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite">
 </details>  
 
 <details>
