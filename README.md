@@ -24,6 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="25" height="25">
 </p>
 
+<br>
+<hr>
+
 <details>
 <summary> 💡Github Stats </summary>
 <br>
