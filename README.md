@@ -41,7 +41,7 @@
 
 <hr>
 
-<p align="left" dir="auto">
+<p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite"><img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite" width="450" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
