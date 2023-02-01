@@ -1,4 +1,3 @@
-<br>
 <img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there I'm Eren KALAYCI
@@ -39,3 +38,5 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
+
+<hr>
