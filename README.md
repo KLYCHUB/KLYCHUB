@@ -39,6 +39,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
 
+     <div style="display: inline-block; width: 49%;">
+  <button>Button 1</button>
+</div>
+<div style="display: inline-block; width: 49%;">
+  <button>Button 2</button>
+</div>
 
 
 
