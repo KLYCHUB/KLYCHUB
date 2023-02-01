@@ -26,8 +26,8 @@
 </p>
 
 <br>
-<hr>
 <br>
+<hr>
 
 <details>
 <summary> 💡Github Stats </summary>
