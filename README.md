@@ -2,21 +2,14 @@
 
 ### Hi there I'm Eren 👋
 
-<br />
-
 ### About...
 
-<br />
-
 ### Reach out to me
-
 [<img widht="22" src="https://unpng.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img widht="22" src="https://unpng.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 [twitter]: https://twitter.com/erenklyctr
 [linkedin]: https://www.linkedin.com/in/erenklyc/
-
-<br />
 
 ### Tech I use
 
