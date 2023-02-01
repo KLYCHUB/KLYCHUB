@@ -44,4 +44,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS">
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KLYCHUB/KLYCHUB/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
