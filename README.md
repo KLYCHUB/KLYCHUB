@@ -27,8 +27,8 @@
 <br>
 <hr>
 
-<div style="display: inline-block; width: 49%;"></div>
-<div style="display: inline-block; width: 49%;"></div>
+<div style="display: inline-block; width: 49%;">fsdfsd</div>
+<div style="display: inline-block; width: 49%;">dsfsdfsdfdsfs</div>
 
 <details>
 <summary> 💡Github Stats </summary>
