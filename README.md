@@ -3,7 +3,7 @@
 
 ### Hi there I'm Eren KALAYCI
 
-# I’m currently learning Flutter.
+#### I’m currently learning Flutter.
 
 ### Reach out to me
 <p align="left" dir="auto">
