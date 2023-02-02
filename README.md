@@ -53,8 +53,9 @@
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS">
-
-<table border="0">
+<table border="1">
+        <caption>Author Details</caption>
+  
         <tr>
             <th>NAME</th>
             <th>AGE</th>
@@ -70,3 +71,4 @@
             <td>21</td>
             <td>ECE</td>
         </tr>
+    </table>
