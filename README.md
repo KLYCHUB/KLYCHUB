@@ -30,11 +30,11 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="25" height="25">
 &nbsp;
-<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="22" height="22">
+<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="25" height="25">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="22" height="22">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25">
 &nbsp;
-<img src="https://w7.pngwing.com/pngs/622/18/png-transparent-adobe-logo-logos-premier-pro-logos-and-brands-line-filled-icon.png" alt="photoshop" width="22" height="22">
+<img src="https://w7.pngwing.com/pngs/622/18/png-transparent-adobe-logo-logos-premier-pro-logos-and-brands-line-filled-icon.png" alt="photoshop" width="25" height="25">
 </p>
 
 <hr>
