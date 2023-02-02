@@ -11,8 +11,6 @@
 &nbsp; 
 <a href="https://stackoverflow.com/users/erenklyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erenklyc" height="20" width="20" /></a>
 &nbsp;
-<a href="https://discord.gg/825260855218012201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eren KALAYCI#0804" height="22" width="22"></a>
-&nbsp;
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>  
 </p>
 
