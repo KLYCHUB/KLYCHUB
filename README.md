@@ -70,4 +70,3 @@
             <td>21</td>
             <td>ECE</td>
         </tr>
-</table>
