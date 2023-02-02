@@ -52,11 +52,11 @@
 </tr>
 </tbody></table>
 
-
-
+<hr>
 <!-- <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS"> -->
 
 <p align="center" dir="auto"> 
-Visitor count<br><br>
+## VISITOR COUNT
+<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/KLYCHUB/count.svg"><img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" data-canonical-src="https://profile-counter.glitch.me/KLYCHUB/count.svg" style="max-width: 100%;"></a>
 </p>
