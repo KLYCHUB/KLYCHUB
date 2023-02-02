@@ -37,7 +37,7 @@
 
 <hr>
 
-<table align="center" border: 1px solid black>
+<table align="center" style="border: 3px solid black">
   <tbody><tr>
     <th>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465"><img src="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;hide=contribs,issues&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
