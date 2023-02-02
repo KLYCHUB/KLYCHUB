@@ -18,19 +18,20 @@
 
 ### Languages and tools
 <p align="left" dir="auto">
-<img src="https://avatars.githubusercontent.com/u/38549573?s=200&v=4" widht="25" height="25">
-&nbsp;
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" widht="25" height="25">
 &nbsp;
 <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="25" height="25">
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht="25" height="25">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" widht="25" height="25">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="27" height="27">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="27" height="27">
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/38549573?s=200&v=4" widht="25" height="25">
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht="25" height="25">
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25">
 &nbsp;
