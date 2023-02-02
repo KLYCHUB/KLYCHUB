@@ -35,7 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="22" height="22">
 </p>
 
-<br>
 <hr>
 
 <details>
