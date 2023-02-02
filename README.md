@@ -7,7 +7,7 @@
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
 &nbsp;
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" widht="20" height="20>
+
 &nbsp;
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>  
 </p>
