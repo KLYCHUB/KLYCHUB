@@ -1,8 +1,6 @@
 <hr>
 <img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
 
-<br>
-
 ### Hi there I'm Eren KALAYCI
 
 ### Reach out to me
