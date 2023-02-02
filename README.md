@@ -9,7 +9,7 @@
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
 &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[Stack Overflow].svg" />
+<a href="https://stackoverflow.com/users/erenklyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erenklyc" height="20" width="20" /></a>
 &nbsp;
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>  
 </p>
