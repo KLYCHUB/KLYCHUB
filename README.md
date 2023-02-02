@@ -5,9 +5,9 @@
 
 ### Reach out to me
 <p align="left" dir="auto">
-<a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
 &nbsp;
-<a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a>
+<a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>
 </p>
 
 ### Languages and tools
@@ -29,15 +29,15 @@
 <hr>
 
 <details>
-<summary> 💡Most Used Langues </summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
-</details>
-
-<details>
 <summary> 💡Github Stats </summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&theme=graywhite">
+</details>
+
+<details>
+<summary> 💡Most Used Langues </summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&layout=compact">
 </details>
 
 <hr>
