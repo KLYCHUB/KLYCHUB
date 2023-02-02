@@ -26,9 +26,9 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" widht="25" height="25">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="27" height="27">
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="25" height="25">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="27" height="27">
 &nbsp;
 <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="25" height="25">
 &nbsp;
