@@ -34,7 +34,7 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="22" height="22">
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Adobe_Premiere_Pro_CS6_Icon.png" alt="photoshop" width="22" height="22">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Adobe_Premiere_Pro_CS6_Icon.png" alt="photoshop" width="24" height="24">
 </p>
 
 <hr>
