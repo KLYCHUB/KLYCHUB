@@ -6,8 +6,8 @@
 ### Reach out to me
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
-&nbsp;
-<img src="https://stackoverflow.com/users/17047256/erenklyc" alt="ErenKLYC" data-canonical-src="https://stackoverflow.com/users/17047256/erenklyce" style="max-width: 100%;">
+&nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[Stack Overflow].svg" />
 &nbsp;
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>  
 </p>
