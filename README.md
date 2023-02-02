@@ -34,7 +34,7 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25" height="25">
 &nbsp;
-&nbsp;
+<br>
 <img src="https://w7.pngwing.com/pngs/622/18/png-transparent-adobe-logo-logos-premier-pro-logos-and-brands-line-filled-icon.png" alt="photoshop" width="27" height="27">
 </p>
 
