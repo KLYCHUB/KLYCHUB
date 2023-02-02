@@ -54,7 +54,7 @@
 
 <hr>
 
-/* <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS"> */
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS"> -->
 
 <p align="center" dir="auto"> 
   Visitor count<br>
