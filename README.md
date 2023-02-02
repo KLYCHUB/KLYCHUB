@@ -37,7 +37,7 @@
 
 <hr>
 
-<table align="center">
+<table align="center" table border="3">
 <tbody><tr>
 <th>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465"><img src="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;hide=contribs,issues&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
@@ -53,17 +53,3 @@
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS">
-<table border="1">
-        <caption>Author Details</caption>
-  
-        <tr>
-<th>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465"><img src="https://camo.githubusercontent.com/54f24891b0a7d722503b58760b6b7b0c5c4f03a1a54b8d948b5cf19210514c78/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b4c59434855422673686f775f69636f6e733d74727565267468656d653d677261797768697465" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;hide=contribs,issues&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
-</th>
-&nbsp;
-&nbsp;
-<th>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da0af81c9748a658e6a63fb86a9409f11002c67023277610a4d9a096727e74d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/da0af81c9748a658e6a63fb86a9409f11002c67023277610a4d9a096727e74d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542266c61796f75743d636f6d70616374" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
-</th>
-</tr>
-    </table>
