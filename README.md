@@ -56,7 +56,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS"> -->
 
 <p align="center" dir="auto"> 
-<p align="center"><font face="tahoma" size="5" color="maroon">
+<p align="center"><font face="tahoma" size="15" color="maroon">
 <b>Visitor Count</b></font></p>
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/KLYCHUB/count.svg"><img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" data-canonical-src="https://profile-counter.glitch.me/KLYCHUB/count.svg" style="max-width: 100%;"></a>
