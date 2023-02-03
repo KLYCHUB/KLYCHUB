@@ -52,14 +52,10 @@
 </tr>
 </tbody></table>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KLYCHUB&theme=dark&hide_border=false">
-
 <hr>
-<!-- <img src="https://komarev.com/ghpvc/?username=your-github-KLYCHUB&label=PROFILE+VIEWS"> -->
 
 <p align="center" dir="auto"> 
 <b>Visitor Count</b>
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/KLYCHUB/count.svg"><img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" data-canonical-src="https://profile-counter.glitch.me/KLYCHUB/count.svg" style="max-width: 100%;"></a>
 </p>
-"https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;hide=contribs,issues&amp;theme=github_dark&amp;hide_border=true"
