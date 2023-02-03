@@ -38,7 +38,7 @@
 <img src="https://w7.pngwing.com/pngs/622/18/png-transparent-adobe-logo-logos-premier-pro-logos-and-brands-line-filled-icon.png" alt="photoshop" width="25" height="25">
 </p>
 
-<hr>
+
 
 <table align="center" table border="3.5">
 <tbody><tr>
@@ -52,7 +52,7 @@
 </tr>
 </tbody></table>
 
-<hr>
+
 
 <p align="center" dir="auto"> 
 <b>Visitor Count</b>
