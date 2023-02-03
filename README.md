@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
 <hr>
 <img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
 
@@ -59,3 +66,6 @@
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/KLYCHUB/count.svg"><img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" data-canonical-src="https://profile-counter.glitch.me/KLYCHUB/count.svg" style="max-width: 100%;"></a>
 </p>
+
+</body>
+</html>
