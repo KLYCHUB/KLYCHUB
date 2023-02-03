@@ -40,7 +40,7 @@
 
 <hr>
 
-<table align="center" table border="3.5" border-collapse: "collapse">
+<table align="center" table border="3.5" border-collapse: "collapse" background-color: "lemonchiffon">
 <tbody><tr>
 <th>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33be90306ae3c1463df001a5bbe5d5c6769fda5c7562a7957dbbac628a0aea02/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b4c5943485542267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365"><img src="https://camo.githubusercontent.com/33be90306ae3c1463df001a5bbe5d5c6769fda5c7562a7957dbbac628a0aea02/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b4c5943485542267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;hide=contribs,issues&amp;theme=github_dark&amp;hide_border=true"></a>
