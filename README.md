@@ -47,7 +47,7 @@
 </th>
 
 <th>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da0af81c9748a658e6a63fb86a9409f11002c67023277610a4d9a096727e74d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/da0af81c9748a658e6a63fb86a9409f11002c67023277610a4d9a096727e74d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542266c61796f75743d636f6d70616374" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLYCHUB&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
 </th>
 </tr>
 </tbody></table>
