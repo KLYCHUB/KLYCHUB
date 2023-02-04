@@ -1,9 +1,15 @@
 <hr>
-<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="268">
+<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there I'm Eren KALAYCI
 
 #### I’m currently learning Flutter.
+
+### Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erenklyc) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17047256) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erenklyctr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erenklyctr) 
 
 ### Langue and Tool
 <p align="left" dir="auto">
