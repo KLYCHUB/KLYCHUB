@@ -48,7 +48,7 @@
 </th>
 
 <th>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c4687de819d2f0bad869c389ee724d17730d4e4324ae01ed11dd9f01d673826/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/1c4687de819d2f0bad869c389ee724d17730d4e4324ae01ed11dd9f01d673826/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b4c5943485542267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dae9be24da74e0cf3fb491ad7be77a3b266074877755daf1583f74667611b46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6c7963687562267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/2dae9be24da74e0cf3fb491ad7be77a3b266074877755daf1583f74667611b46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6c7963687562267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="KLYCHUB" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;"></a>
 </th>
 </tr>
 </tbody></table>
@@ -60,5 +60,3 @@
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/KLYCHUB/count.svg"><img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" data-canonical-src="https://profile-counter.glitch.me/KLYCHUB/count.svg" style="max-width: 100%;"></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klychub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
