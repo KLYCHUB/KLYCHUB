@@ -6,10 +6,17 @@
 #### I’m currently learning Flutter.
 
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erenklyc) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17047256) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erenklyctr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erenklyctr) 
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
+&nbsp; 
+<a href="https://stackoverflow.com/users/17047256/erenklyc?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erenklyc" height="20" width="20" /></a>
+&nbsp;
+<a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>
+&nbsp;
+<a href="https://www.instagram.com/erenklyctr/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" style="max-width: 100%;"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
+</p>
 
 ### Langue and Tool
 <p align="left" dir="auto">
