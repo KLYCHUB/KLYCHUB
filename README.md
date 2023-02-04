@@ -14,8 +14,8 @@
 <a href="https://twitter.com/erenklyctr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20" style="max-width: 100%;"></a>
 &nbsp;
 <a href="https://www.instagram.com/erenklyctr/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" style="max-width: 100%;"></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
-&nbsp; 
 </p>
 
 ### Languages and tools
