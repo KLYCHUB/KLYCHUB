@@ -1,5 +1,5 @@
 <hr>
-<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="200" height="134">
+<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="268">
 
 ### Hi there I'm Eren KALAYCI
 
