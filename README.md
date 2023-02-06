@@ -1,5 +1,6 @@
 <hr>
-<div class="tenor-gif-embed" data-postid="25032877" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/eren-yeager-gif-25032877">Eren Yeager GIF</a>from <a href="https://tenor.com/search/eren+yeager-gifs">Eren Yeager GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/eren-yeager-gif-25032877" height="400" widht="250">
+<a href="https://tenor.com/search/eren+yeager-gifs">
 
 ### Hi there I'm Eren KALAYCI
 
