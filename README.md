@@ -1,5 +1,5 @@
 <hr>
-<img src="https://tenor.com/tr/view/merci-gif-23973695" align="right" widht="498" height="258">
+<div class="tenor-gif-embed" data-postid="25032877" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/eren-yeager-gif-25032877">Eren Yeager GIF</a>from <a href="https://tenor.com/search/eren+yeager-gifs">Eren Yeager GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Hi there I'm Eren KALAYCI
 
