@@ -1,5 +1,5 @@
 <hr>
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/CFA1wrfx4CkF4wavhr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iQiyiOfficial-attack-on-titan-iqiyi-final-season-CFA1wrfx4CkF4wavhr">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/CFA1wrfx4CkF4wavhr/giphy.gif" widht="400" height="250">
 
 ### Hi there I'm Eren KALAYCI
 
