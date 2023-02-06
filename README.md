@@ -1,5 +1,5 @@
 <hr>
-<img src="https://media.giphy.com/media/c2lbMLWfL1mQ8/giphy.gif" align="right" widht="400" height="250">
+<img src="https://tenor.com/tr/view/merci-gif-23973695" align="right" widht="400" height="250">
 
 ### Hi there I'm Eren KALAYCI
 
