@@ -21,9 +21,6 @@
 <br>
 <br>
 <br>
-
-<hr>
-
 <br>
 
 <table align="center" border="3" ">
