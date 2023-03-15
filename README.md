@@ -3,9 +3,10 @@
 
 ## Hi there I'm Eren KALAYCI
 
-### I’m currently learning Flutter.
+## I’m currently learning Flutter.
 
 ## Reach out to me
+
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="max-width: 100%;"></a> 
 &nbsp; 
