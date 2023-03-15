@@ -18,6 +18,7 @@
 <a href="https://klychub.github.io/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
 </p>
 
+<!-
 ### Langue and Tool
 <p align="left" dir="auto">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" widht="25" height="25">
@@ -40,7 +41,7 @@
 &nbsp;
 <img src="https://w7.pngwing.com/pngs/622/18/png-transparent-adobe-logo-logos-premier-pro-logos-and-brands-line-filled-icon.png" alt="photoshop" width="25" height="25">
 </p>
-
+-->
 <hr>
 
 <table align="center" border="3" ">
