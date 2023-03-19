@@ -20,9 +20,6 @@
 &nbsp;
 </p>
 
-<br>
-<br>
-
 <hr>
 <table align="center" border="3" ">
 <tbody><tr>
