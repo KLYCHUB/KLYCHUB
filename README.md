@@ -5,6 +5,8 @@
 
 ### I’m currently learning Flutter.
 
+### Road to Mobile Developer
+
 ### Reach out to me
 
 <p align="left" dir="auto">
@@ -19,8 +21,6 @@
 <a href="https://www.instagram.com/erenklyctr/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" style="max-width: 100%;"></a>
 &nbsp;
 </p>
-
-### Road to Mobile Developer
 
 <br>
 <br>
