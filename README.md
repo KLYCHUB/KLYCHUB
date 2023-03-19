@@ -1,5 +1,5 @@
 <hr>
-<img align="right" src="https://media.tenor.com/Es_MDMxEg7wAAAAC/eren-yeager.gif" widht="400" height="250">
+<img align="right" src="https://media.tenor.com/Es_MDMxEg7wAAAAC/eren-yeager.gif" widht="200" height="125">
 
 ### Hi there I'm Eren KALAYCI
 
