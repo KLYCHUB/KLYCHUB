@@ -20,9 +20,8 @@
 &nbsp;
 </p>
 
+### Road to Mobile Developer
 
-<br>
-<br>
 <br>
 <br>
 
