@@ -10,7 +10,7 @@
 ### Reach out to me
 
 <p align="left" dir="auto">
-<a href="https://klychub.github.io/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
+<a href="ernklyc.com" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
 &nbsp;
 <a href="https://www.linkedin.com/in/erenklyc/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="21" width="21" style="max-width: 100%;"></a> 
 &nbsp;
