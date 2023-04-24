@@ -1,9 +1,9 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <hr>
-  <h3 align="center";">Hi there, I'm Eren KALAYCI</h3>
-  <p align="center";">I’m currently learning Flutter.</p>
-  <p align="center";">Road to Mobile Developer</p>
-  <p align="center";">Reach out to me:</p>
+  <h3 align="center">Hi there, I'm Eren KALAYCI</h3>
+  <p align="center">I’m currently learning Flutter.</p>
+  <p align="center">Road to Mobile Developer</p>
+  <p align="center">Reach out to me:</p>
   <p align="center" dir="auto">
     <a href="htpp://ernklyc.com" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
     &nbsp;
