@@ -1,6 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: right;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <hr>
-  <img align="right" src="https://media.tenor.com/Es_MDMxEg7wAAAAC/eren-yeager.gif" width="320" height="200">
+  <img align="center" src="https://media.tenor.com/Es_MDMxEg7wAAAAC/eren-yeager.gif" width="1920" height="1080">
   <h3 style="text-align: center;">Hi there, I'm Eren KALAYCI</h3>
   <p style="text-align: center;">I’m currently learning Flutter.</p>
   <p style="text-align: center;">Road to Mobile Developer</p>
