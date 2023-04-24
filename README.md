@@ -1,5 +1,3 @@
-<h2 align="center">Hi there I'm Eren KALAYCI</h2>
-
 <img align="center" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" height="470">
 
 <table align="center" border="3" ">
