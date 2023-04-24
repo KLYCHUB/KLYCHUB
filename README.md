@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <hr>
   <h2 align="center">Hi there, I'm Eren KALAYCI</h2>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3o7bugwhhJE9WhxkYw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-attack-on-titan-shingeki-no-kyojin-3o7bugwhhJE9WhxkYw">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/3o7bugwhhJE9WhxkYw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-attack-on-titan-shingeki-no-kyojin-3o7bugwhhJE9WhxkYw">via GIPHY</a></p>
   <p align="left" dir="auto"></p>
   <hr>
   <table style="max-width: 100%; width: 50%; margin: auto;" border="3">
