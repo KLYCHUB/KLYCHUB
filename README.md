@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <hr>
-  <h3 style="text-align: center, align-items: center;">Hi there, I'm Eren KALAYCI</h3>
+  <h3 style="text-align: center;">Hi there, I'm Eren KALAYCI</h3>
   <p style="text-align: center;">I’m currently learning Flutter.</p>
   <p style="text-align: center;">Road to Mobile Developer</p>
   <p style="text-align: center;">Reach out to me:</p>
