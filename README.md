@@ -2,7 +2,7 @@
   <h2 align="center">Hi there, I'm Eren KALAYCI</h2>
   
   <img src="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68" width="40" height="40" />
- 
+ "https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68
   <p align="left" dir="auto"></p>
   <hr>
   <table style="max-width: 100%; width: 50%; margin: auto;" border="3">
