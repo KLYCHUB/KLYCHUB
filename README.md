@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <h2 align="center">Hi there, I'm Eren KALAYCI</h2>
+  <h1 align="center">Hi there, I'm Eren KALAYCI</h1>
 
 <p align=center>
 <animated-image data-catalyst="" style="width: 1080px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" height="470" data-canonical-src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
