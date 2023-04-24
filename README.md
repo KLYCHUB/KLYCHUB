@@ -1,5 +1,5 @@
 <hr>
-<img align="right" src="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68" widht="320" height="200">
+<img align="right" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" widht="320" height="200">
 https://media.tenor.com/Es_MDMxEg7wAAAAC/eren-yeager.gif
 ### Hi there I'm Eren KALAYCI
 
