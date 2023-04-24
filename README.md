@@ -1,7 +1,7 @@
 <hr>
 <img align="right" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" widht="320" height="200">
 
-<h2 align="center">Hi there I'm Eren KALAYCI>
+<h2 align="center">Hi there I'm Eren KALAYCI</h2>
 
 <p align="left" dir="auto">
 <a href="https://klychub.github.io/" rel="nofollow"><img align="center" src="https://avatars.githubusercontent.com/u/94598244?v=4" height="20" width="20" style="max-width: 100%;"></a> 
