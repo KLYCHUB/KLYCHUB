@@ -2,11 +2,6 @@
   <img src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" height="470">
 </div>
 
-<hr>
-<div align="center">
-  <img src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" height="470">
-</div>
-
 <table align="center" border="3">
   <tbody>
     <tr>
