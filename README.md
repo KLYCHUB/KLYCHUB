@@ -16,10 +16,6 @@
           <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB">
         </a>
       </th>
-      <th style="border: 2px solid black;">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB">
-        </a>
       </th>
     </tr>
   </tbody>
