@@ -4,22 +4,24 @@
 
 <hr>
 
-<table align="center" border="3">
-  <tbody>
-    <tr>
-      <th>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB">
-          <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB">
-        </a>
-      </th>
-      <th>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB">
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
+<div style="border: 2px solid black; border-radius: 5px; padding: 10px; margin: auto;">
+  <table align="center" border="0" cellpadding="10">
+    <tbody>
+      <tr>
+        <th style="padding: 10px;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB">
+            <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB">
+          </a>
+        </th>
+        <th style="padding: 10px;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB?tab=repositories">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB">
+          </a>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <hr>
 
