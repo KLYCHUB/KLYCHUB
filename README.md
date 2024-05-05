@@ -29,20 +29,11 @@
 
 <hr>
 
-### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8">
-  </a>
-</div>
-
----
+<hr>
 
 <p align="center">
   <b>Visitor Count</b><br>
