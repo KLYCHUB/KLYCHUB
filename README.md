@@ -27,6 +27,8 @@
   </table>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
+
 <hr>
 
 <div align="center">
@@ -39,8 +41,3 @@
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" alt="Visitor Count">
 </p>
-
-<hr>
-
-  [![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
-
