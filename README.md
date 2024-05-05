@@ -1,8 +1,14 @@
+# Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋
+
 <div align="center">
   <img src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" height="470">
 </div>
 
-<hr>
+---
+
+<div align="center">
+  <h2>Github İstatistikleri</h2>
+</div>
 
 <div style="border: 2px solid black; border-radius: 5px; padding: 10px; margin: auto;">
   <table align="center" border="0" cellpadding="10">
@@ -27,6 +33,9 @@
   </table>
 </div>
 
+---
+
 <div align="center">
+  <h2>Katkıda Bulunanlar</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
