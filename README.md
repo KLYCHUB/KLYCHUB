@@ -24,9 +24,12 @@
 </div>
 
 <hr>
-![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ### 🔝 Top Contributed Repo
-<div align="center">
+![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
   
 </div>
 
