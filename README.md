@@ -39,3 +39,10 @@
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" alt="Visitor Count">
 </p>
+
+<hr>
+
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
+</div>
+
