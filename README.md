@@ -9,14 +9,18 @@
     <tbody>
       <tr>
         <th style="padding: 10px;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB">
-            <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB">
-          </a>
+          <div align="center">
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB">
+              <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB">
+            </a>
+          </div>
         </th>
         <th style="padding: 10px;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB">
-          </a>
+          <div align="center">
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/KLYCHUB?tab=repositories">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB">
+            </a>
+          </div>
         </th>
       </tr>
     </tbody>
@@ -26,15 +30,19 @@
 <hr>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
-  
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8">
+  </a>
+</div>
+
+---
 
 <p align="center">
   <b>Visitor Count</b><br>
