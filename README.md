@@ -34,10 +34,3 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
-
-<hr>
-
-<p align="center">
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" alt="Visitor Count">
-</p>
