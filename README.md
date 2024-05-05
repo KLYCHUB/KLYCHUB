@@ -25,6 +25,12 @@
 
 <hr>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
+
 <p align="center">
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/KLYCHUB/count.svg" alt="Visitor Count">
