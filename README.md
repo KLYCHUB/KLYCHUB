@@ -2,10 +2,11 @@
   <img src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yisyttshy440562elw3uuo6n63o004cmnmg6azq5&rid=giphy.gif&ct=g" height="470">
 </div>
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8)](https://visitcount.itsvg.in)
-</div>
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=klychub&icon=2&color=8">
+  </a>
+</p>
 
 <hr>
 
