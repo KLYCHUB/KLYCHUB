@@ -24,10 +24,10 @@
 </div>
 
 <hr>
-
+![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ### 🔝 Top Contributed Repo
 <div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  
 </div>
 
 ---
