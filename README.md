@@ -33,8 +33,9 @@
   <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-Android-333333?style=flat&logo=android" alt="Android" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C" />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop" />
 </div>
