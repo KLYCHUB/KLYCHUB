@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" alt="Dart" />
   <img src="https://img.shields.io/badge/-Android-333333?style=flat&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp" alt="C#" />
+  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
