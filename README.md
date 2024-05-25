@@ -15,14 +15,6 @@
 
 ---
 
-## 🚀 Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=klychub&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributions">
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 - [Project 1](link1): Description of Project 1.
