@@ -49,6 +49,6 @@
   
 **Profile Visitor Count:**
   
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=KLYCHUB.KLYCHUB)
+![Visitor Count](https://visitors-badge.herokuapp.com/badge?page_id=KLYCHUB.profile)
   
 </div>
