@@ -26,19 +26,16 @@
 
 </div>
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-VS Code-333333?style=flat&logo=visual-studio-code" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity" alt="Unity" />
+  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp" alt="C#" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop" />
 </div>
 
