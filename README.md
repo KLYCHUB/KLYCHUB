@@ -22,3 +22,18 @@
 </div>
 
 ---
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klychub" alt="klychub" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/erenklyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenklyc" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klychub&show_icons=true&locale=en&layout=compact" alt="klychub" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klychub&show_icons=true&locale=en" alt="klychub" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klychub&" alt="klychub" /></p>
