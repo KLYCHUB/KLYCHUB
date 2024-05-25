@@ -17,9 +17,9 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klychub&theme=github_dark&hide_border=true" alt="klychub" />
   <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLYCHUB&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="KLYCHUB Languages">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klychub&theme=github_dark&hide_border=true" alt="klychub" />
 </div>
 
 ---
