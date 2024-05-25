@@ -22,13 +22,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-</div>
-
-- [Project 1](link1): Description of Project 1.
-- [Project 2](link2): Description of Project 2.
-- [Project 3](link3): Description of Project 3.
