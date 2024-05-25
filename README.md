@@ -49,6 +49,6 @@
   
 **Profile Visitor Count:**
   
-![Visitor Count](https://visitors-badge.herokuapp.com/badge?page_id=KLYCHUB.profile)
+![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
   
 </div>
