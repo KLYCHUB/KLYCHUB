@@ -49,8 +49,6 @@
   
 **Profile Visitor Count:**
   
-![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=KLYCHUB.KLYCHUB)
   
 </div>
-
----
