@@ -1,16 +1,14 @@
+---
+
 <div align="center">
 <h1>Welcome to My GitHub Profile! 👋</h1>
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkYmt0OW1hdWU0NXRoY2w4YWN2M2J1aGZlbzIydnVqbnk5bTN0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" height="360">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkYmt0OW1hdWU0NXRoY2w4YWN2M2J1aGZlbzIydnVqbnk5bTN0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" height="300">
 </div>
 
 ---
-
-<div align="center">
-  ## 📊 GitHub Statistics
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KLYCHUB&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true" alt="KLYCHUB Stats">
