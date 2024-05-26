@@ -36,16 +36,13 @@
 ---
 
 <div align="center">
-  <h2>Connect with Me</h2>
-  <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/erenklyc/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://klychub.github.io/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-  </div>
-
+  <a href="https://www.linkedin.com/in/erenklyc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://klychub.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ---
 
