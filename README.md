@@ -1,11 +1,9 @@
----
-
 <div align="center">
 <h2>Welcome to My GitHub Profile! 👋</h2>
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkYmt0OW1hdWU0NXRoY2w4YWN2M2J1aGZlbzIydnVqbnk5bTN0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" height="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpnbXA0MWhibnM5bGhlN3oxYWZkZ2JqZnFlMjl6Ymoxa3g3YTY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" >
 </div>
 
 ---
