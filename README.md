@@ -38,7 +38,16 @@
 ---
 
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
-  
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
 </div>
