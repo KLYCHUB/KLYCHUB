@@ -44,8 +44,8 @@
   </a>
 </div>
 
----
-
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
+  
 </div>
