@@ -39,11 +39,3 @@
     <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
-
----
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
-  
-</div>
