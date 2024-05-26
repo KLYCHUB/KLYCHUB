@@ -6,7 +6,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpnbXA0MWhibnM5bGhlN3oxYWZkZ2JqZnFlMjl6Ymoxa3g3YTY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" height="360">
 </div>
 
----
 
 <div align="center">
   <h2>My GitHub Stats</h2>
@@ -15,7 +14,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klychub&theme=github_dark&hide_border=true" alt="klychub" />
 </div>
 
----
 
 <div align="center">
   <h2>Skills</h2>
@@ -35,7 +33,6 @@
   <img src="https://img.shields.io/badge/-Premiere Pro-333333?style=flat&logo=adobe-premiere-pro" alt="Premiere Pro" />
 </div>
 
----
 
 <div align="center">
   <h2>Connect with Me</h2>
@@ -47,7 +44,6 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <h2>Visitor Count</h2>
