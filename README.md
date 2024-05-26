@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Welcome to My GitHub Profile! 👋</h2>
+  <h2>Welcome to My GitHub Profile! 👋</h2>
 </div>
 
 <div align="center">
@@ -15,8 +15,6 @@
 </div>
 
 ---
-
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" />
@@ -38,10 +36,10 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erenklyc/">
+  <a href="https://www.linkedin.com/in/erenklyc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://klychub.github.io/">
+  <a href="https://klychub.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-333333?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
@@ -49,7 +47,5 @@
 ---
 
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
-  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KLYCHUB&style=flat&color=blue)
 </div>
