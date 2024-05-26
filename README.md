@@ -1,8 +1,5 @@
 <div align="center">
   <h1>WELCOME👋</h1>
-</div>
-
-<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpnbXA0MWhibnM5bGhlN3oxYWZkZ2JqZnFlMjl6Ymoxa3g3YTY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" height="390">
 </div>
 
@@ -17,6 +14,7 @@
 ---
 
 <div align="center">
+  <h3>Technologies & Tools</h3>
   <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" alt="Dart" />
   <img src="https://img.shields.io/badge/-Android-333333?style=flat&logo=android" alt="Android" />
@@ -36,6 +34,7 @@
 ---
 
 <div align="center">
+  <h3>Connect with me</h3>
   <a href="https://www.linkedin.com/in/erenklyc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
