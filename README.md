@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-<h1>Welcome to My GitHub Profile! 👋</h1>
+<h2>Welcome to My GitHub Profile! 👋</h2>
 </div>
 
 <div align="center">
